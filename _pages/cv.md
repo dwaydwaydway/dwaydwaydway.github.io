@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering Science and Ocean Engineering, National Taiwan University, Graduation Expected in Aug.2020
+* B.S. in Engineering Science and Ocean Engineering, National Taiwan University. 
+  Graduation Expected in Aug.2020
 
 Work experience
 ======
-* Jul. 2019 - Present: Data Scientist Intern
+* Data Scientist Intern (Jul. 2019 - Present)
   * Cathay Financial Holdings
   * Developing a cross-datatype unsupervised representation learning toolkit for tabular data
   * Supervisor: [Jeng-Hsueh Wu](https://www.linkedin.com/in/jeng-hsueh-wu-56a36510/?originalSubdomain=tw)
 
-* Mar. 2020 - Present: Research Assistant
+* Research Assistant (Mar. 2020 - Present)
   * National Taiwan University
   * Analyzing online policy and politics content under the ”109 NTU Core Consortiums Project”
   * Supervisor: [Prof. Helen K. Liu](http://politics.ntu.edu.tw/english/?p=12324)
 
-* Sep. 2019 - Jan. 2020 - Present: Teaching Assistant
+* Teaching Assistant (Sep. 2019 - Jan. 2020)
   * National Taiwan University
   * [EE5184] Machine Learning (2019 Fall)
   * Supervisor: [Prof. Pei-Yuan Wu](http://w3.ee.ntu.edu.tw/profile1?teacher_id=24038&p=3)
@@ -51,6 +52,6 @@ Teaching
 Extracurricular Activities
 ======
 * Varsity Baseball Team
- - Member of the varsity baseball team in senior high and college.
+  Member of the varsity baseball team in senior high and college.
 * Tutoring
- - Programming · Automatic Control · Math (high school level)
+  Programming · Automatic Control · Math (high school level)
