@@ -14,6 +14,13 @@ I was an intern at Cathay Financial Holdings as a data scientist, also a researc
 
 Check out my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei.pdf) for more detail!
 
+About Me (Seriously Talking)
+======
+* Hates raining day.
+* Inexplicably love telling jokes in broken english.
+* Spawned the rule of ejection in southern baseball league by throwing 3 HBP in an single inning.
+* Bronze 2 in League of Legends.
+
 Contact
 ======
 Feel free to contact me via [email](tim8733123@gmail.com)
