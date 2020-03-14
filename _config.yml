@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ting-Wei, Lu"
   avatar           : "photo.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior student @ National Taiwan University"
   location         : "Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://scholar.google.com/"
   email            : "tim8733123@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
