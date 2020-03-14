@@ -17,6 +17,7 @@ About Me (Seriously Talking)
 * Hate raining days.
 * Inexplicably love telling jokes in broken english.
 * Spawned the rule of ejection in southern baseball league by throwing 3 HBP in an single inning.
+* Sort of play piano.
 * League of Legends Challenger.
 * Fine, I'm actually a Diamond 1.
 * Alright, alright. I'm a Bronze 2. Shut up.
