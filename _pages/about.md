@@ -14,7 +14,7 @@ Check out my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei.pdf) for 
 
 About Me (Seriously Talking)
 ======
-* Hate raining day.
+* Hate raining days.
 * Inexplicably love telling jokes in broken english.
 * Spawned the rule of ejection in southern baseball league by throwing 3 HBP in an single inning.
 * League of Legends Challenger.
