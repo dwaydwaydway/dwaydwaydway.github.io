@@ -12,4 +12,5 @@ Kai-Ling Lo, <strong>Ting-Wei Lu</strong>, Tzu-Teng Weng, I-Hsuan Chen, Yun-Nung
 
 We propose a LIghtweight ONtology-independent (LION) sequence-to-sequence model with copy and attention mechanisms to tackle the zero-shot dialoguestate tracking problem.
 
-[Paper](http://dwaydwaydway.github.io/files/LION-Net.pdf)
+[[Paper]](http://dwaydwaydway.github.io/files/LION-Net.pdf)
+[[Code]](https://github.com/MiuLab/LION-Net)
