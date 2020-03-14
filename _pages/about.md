@@ -12,7 +12,7 @@ I am Ting-Wei, Lu (盧庭偉) from Taiwan, a senior student in the department of
 
 Check out my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei.pdf) for more detail. And feel free to contact me via [email](tim8733123@gmail.com).
 
-About Me (Seriously Talking)
+About Me (The more important stuffs...)
 ======
 * Hate raining days.
 * Inexplicably love telling jokes in broken english.
