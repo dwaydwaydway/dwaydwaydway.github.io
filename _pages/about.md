@@ -10,7 +10,7 @@ redirect_from:
 
 I am Ting-Wei, Lu(盧庭偉) from Taiwan, currently a senior student in the department of engineering at National Taiwan University. 
 My research 
-Check out my [CV](https://dwaydwaydway.github.io/files/Ting-Wei.pdf) for more detail!
+Check out my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei.pdf) for more detail!
 
 A data-driven personal website
 ======
