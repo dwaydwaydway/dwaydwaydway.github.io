@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Engineering Science and Ocean Engineering, National Taiwan University. 
-  Graduation Expected in Aug.2020
+  * Graduation Expected in Aug.2020
 
 Work experience
 ======
@@ -49,6 +49,6 @@ Teaching
 Extracurricular Activities
 ======
 * Varsity Baseball Team
-  Member of the varsity baseball team in senior high and college.
+  * Member of the varsity baseball team in senior high and college.
 * Tutoring
-  Programming · Automatic Control · Math (high school level)
+  * Programming · Automatic Control · Math (high school level)
