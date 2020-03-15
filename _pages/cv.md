@@ -34,6 +34,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+More on my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei.pdf)!
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -46,9 +47,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Extracurricular Activities
+<!-- Extracurricular Activities
 ======
 * Varsity Baseball Team
   * Member of the varsity baseball team in senior high and college.
 * Tutoring
-  * Programming · Automatic Control · Math (high school level)
+  * Programming · Automatic Control · Math (high school level) -->
