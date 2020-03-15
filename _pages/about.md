@@ -12,7 +12,7 @@ I am Ting-Wei, Lu (盧庭偉) from Taiwan, a senior student in the department of
 
 Check out my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei.pdf) for more detail. And feel free to contact me via [email](tim8733123@gmail.com).
 
-About Me (The more important stuffs...)
+<!-- About Me (The more important stuffs...)
 ======
 * Hate raining days.
 * Inexplicably love telling jokes in broken english.
@@ -21,4 +21,4 @@ About Me (The more important stuffs...)
 * League of Legends Challenger.
 * Fine, I'm actually a Diamond 1.
 * Alright, alright. I'm a Bronze 2. Shut up.
-* Not sure why I'm writing this site at all since no one will visit here except probably my mom. 
+* Not sure why I'm writing this site at all since no one will visit here except probably my mom.  -->
