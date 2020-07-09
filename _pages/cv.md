@@ -34,7 +34,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-More on my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei.pdf)!
+More on my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei_Lu.pdf)!
 
 <!-- Talks
 ======
