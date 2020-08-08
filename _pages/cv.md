@@ -16,11 +16,15 @@ Education
 
 Work experience
 ======
-* Data Scientist Intern @ Cathay Financial Holdings (Jul. 2019 - Present)
+* Research Assistant (Full Time)@ Academia Sinica - CKIP lab (Aug. 2020 - Presnet)
+  * Research Topic: Data-to-Text Generation
+  * Supervisor: [Prof. Ma, Wei-Yun](https://www.iis.sinica.edu.tw/pages/ma/)
+  * 
+* Data Scientist Intern @ Cathay Financial Holdings (Jul. 2019 - Jun. 2020)
   * Developing a cross-datatype unsupervised representation learning toolkit for tabular data
   * Supervisor: [Jeng-Hsueh Wu](https://www.linkedin.com/in/jeng-hsueh-wu-56a36510/?originalSubdomain=tw)
 
-* Research Assistant @ National Taiwan University (Mar. 2020 - Present)
+* Research Assistant (Part Time)@ National Taiwan University (Mar. 2020 - Jun. 2020)
   * Analyzing online policy and politics content under the ”109 NTU Core Consortiums Project”
   * Supervisor: [Prof. Helen K. Liu](http://politics.ntu.edu.tw/english/?p=12324)
 
