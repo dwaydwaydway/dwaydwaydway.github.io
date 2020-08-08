@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Engineering Science and Ocean Engineering, National Taiwan University. 
-  * Graduation Expected in Aug.2020
+  * Sep. 2016 - Aug.2020
 
 Work experience
 ======
