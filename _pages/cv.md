@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+More on my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei_Lu.pdf)!
 
 Education
 ======
@@ -37,8 +38,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-More on my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei_Lu.pdf)!
+
 
 <!-- Talks
 ======
