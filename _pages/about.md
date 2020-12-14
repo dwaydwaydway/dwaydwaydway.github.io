@@ -10,7 +10,7 @@ redirect_from:
 
 I am Ting-Wei, Lu (盧庭偉) from Taiwan, currently a research assistant working at the [Chinese Knowledge and Information Processing Laboratory (CKIP)](https://ckip.iis.sinica.edu.tw/) at Academia Sinica, advised by [Dr. Wei-Yun Ma](https://homepage.iis.sinica.edu.tw/pages/ma/). I recieved my bachelor's degree from the department of Engineering Science at National Taiwan University. Previously, I joined the [Machine Intelligence Understanding Lab](https://www.csie.ntu.edu.tw/~miulab/), advised by [Prof.Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/index.html), on various research topics.
 
-My research interest lies in <strong>Text Generation for Creative Purposes</strong>, particularly comedy. 
+My research interest lies in Natural Language Processing. Particularly, <strong>Text Generation for Creative Purposes</strong>. 
 
 Check out my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei_Lu.pdf) for more detail. And feel free to contact me via [email](mailto:tim8733123@gmail.com).
 
