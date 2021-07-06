@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "TING-WEI LU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
