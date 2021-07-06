@@ -12,14 +12,17 @@ More on my [CV/Resume](https://dwaydwaydway.github.io/files/Ting-Wei_Lu.pdf)!
 
 Education
 ======
+* M.S. in Information System and Applied information science, Cornell University. 
+  * Aug. 2021 - Present
 * B.S. in Engineering Science and Ocean Engineering, National Taiwan University. 
   * Sep. 2016 - Aug.2020
 
+
 Work experience
 ======
-* Research Assistant (Full Time) @ Academia Sinica - CKIP lab <br/> (Aug. 2020 - Presnet)
+* Research Assistant (Full Time) @ Academia Sinica - CKIP lab <br/> (Aug. 2020 - Jun. 2020)
   * Research Topic: Data-to-Text Generation
-  * Supervisor: [Prof. Ma, Wei-Yun](https://www.iis.sinica.edu.tw/pages/ma/)
+  * Advisor: [Prof. Ma, Wei-Yun](https://www.iis.sinica.edu.tw/pages/ma/)
 
 * Data Scientist Intern @ Cathay Financial Holdings <br/> (Jul. 2019 - Jun. 2020)
   * Developing a cross-datatype unsupervised representation learning toolkit for tabular data
@@ -27,7 +30,7 @@ Work experience
 
 * Research Assistant (Part Time) @ National Taiwan University <br/> (Mar. 2020 - Jun. 2020)
   * Analyzing online policy and politics content under the ”109 NTU Core Consortiums Project”
-  * Supervisor: [Prof. Helen K. Liu](http://politics.ntu.edu.tw/english/?p=12324)
+  * Advisor: [Prof. Helen K. Liu](http://politics.ntu.edu.tw/english/?p=12324)
 
 * Teaching Assistant @ National Taiwan University <br/> (Sep. 2019 - Jan. 2020)
   * [EE5184] Machine Learning (2019 Fall)
