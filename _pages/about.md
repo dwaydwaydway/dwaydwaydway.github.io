@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "TING-WEI LU"
-excerpt: "About me"
+title: "About me"
+excerpt: "TING-WEI"
 author_profile: true
 redirect_from: 
   - /about/
