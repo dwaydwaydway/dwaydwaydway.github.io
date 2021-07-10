@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ting-Wei, Lu"
+  name             : "Lu, Ting-Wei"
   avatar           : "photo.png"
-  bio              : "Natural Language Processing | Deep Learning | Applied Data Science"
+  bio              : "Software Engineering | Natural Language Processing"
   location         : "Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           : "dwaydwaydway"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "dwaydwaydway"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "dwaydwaydway"
